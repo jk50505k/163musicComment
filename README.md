@@ -1,4 +1,4 @@
-# 163musicComent
+# 网易云音乐评论
 抓取网易云音乐下某个类目下的音乐的评论进行词频分析生成词云
 ## 依赖
 [用到的免费ip池@hao104/proxy_pool](https://github.com/jhao104/proxy_pool)<br>

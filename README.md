@@ -8,4 +8,7 @@ wordcloud jieba
 里面也可调用歌词抓取的函数（getLyric）进行分析<br>
 再利用jieba,wordcloud库进行词频分析
 ## 使用效果
-
+民谣评论
+![folk_comment](https://github.com/jk50505k/163musicComent/blob/master/folk(过滤后).jpg?raw=true)<br>
+民谣歌词
+![folk_lrc](https://github.com/jk50505k/163musicComent/blob/master/lrc_folk_full(中文).jpg?raw=true)
